@@ -97,7 +97,7 @@ The script integrates the Google Maps API to geocode addresses into latitude and
 
 For any questions or support, please contact:
 - **Name**: Lavish Isasare
-- **Email**: lavishisasare@gmail.com
+- **Email**: lisasare@gmail.com
 
 ---
 
